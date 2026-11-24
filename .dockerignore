@@ -1,0 +1,16 @@
+.git
+.gitignore
+.vs
+.idea
+**/bin/
+**/obj/
+.env
+.env.*
+**/*.user
+**/*.suo
+**/*.pem
+**/*.key
+**/*.pfx
+**/*.p12
+**/device-private-key.txt
+StoreLicense.Api/appsettings.Development.json
