@@ -1,0 +1,43 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# .NET build output
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# Local database and backups
+*.db
+*.db-shm
+*.db-wal
+*.bak
+
+# Private signing keys and certificates
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+
+
+# Device private keys
+**/device-private-key.txt
